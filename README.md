@@ -1,3 +1,18 @@
+# Shopping App
+
+## This is  my online shopping app with React and Redux.
+
+## Screen Gif
+
+![] (screen.gif)
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
